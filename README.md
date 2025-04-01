@@ -63,7 +63,7 @@ A aplicação irá perguntar se você deseja ver os livros disponíveis. Após e
 
 ## 📊 UML do Projeto
 
-Modelagem UML completa do projeto: ![Demonstração do UML](IML/UML.png)
+Modelagem UML completa do projeto: ![Demonstração do UML](src/UML/UML.png)
 
 ## 📜 Licença
 
